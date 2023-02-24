@@ -1,5 +1,7 @@
 # DarkWebCrawler
 
+Disclamer: All the information is for educational purposes only.
+
 Internet and network technologies have evolved dramatically in the last two
 decades, with rising users’ demands to preserve their identities and privacy.
 Researchers have developed approaches to achieve users' demands, where the
